@@ -1,8 +1,0 @@
-estacionamento.db
-*.zip
-sistemaestacionamento/
-__pycache__/
-*.pyc
-build/
-dist/
-*.exe
