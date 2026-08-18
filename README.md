@@ -6,6 +6,7 @@ Um sistema completo para gerenciamento de estacionamentos desenvolvido em Python
 
 O sistema possui uma interface organizada por abas, facilitando a navegação e a gestão:
 
+
 * Gestão de Clientes (CRUD): Cadastro de clientes (Nome, CPF e Placa), edição de dados cadastrais, exclusão de clientes e listagem de clientes cadastrados.
 
 
@@ -27,18 +28,13 @@ O sistema possui uma interface organizada por abas, facilitando a navegação e 
 * Linguagem: Python 3
 * Interface Gráfica: Tkinter / ttk
 
-
 * Banco de Dados: SQLite3
-
 
 * Geração de Gráficos: Matplotlib
 
-
 * Geração de Documentos: FPDF
 
-
 * Empacotamento: PyInstaller (arquivo de especificação incluso)
-
 
 
 ## Estrutura do Projeto
@@ -51,6 +47,7 @@ README.md
 ## Como Executar o Projeto
 
 ### Pré-requisitos
+
 
 Certifique-se de ter o Python 3.x instalado em sua máquina.
 
