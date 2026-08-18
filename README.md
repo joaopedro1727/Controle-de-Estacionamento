@@ -6,15 +6,21 @@ Um sistema completo para gerenciamento de estacionamentos desenvolvido em Python
 
 O sistema possui uma interface organizada por abas, facilitando a navegação e a gestão:
 
+
 * Gestão de Clientes (CRUD): Cadastro de clientes (Nome, CPF e Placa), edição de dados cadastrais, exclusão de clientes e listagem de clientes cadastrados.
+
 
 * Controle de Movimentação: Registro de entrada de veículos gravando data e hora automaticamente, registro de saída com cálculo automático de tempo de permanência e valor total baseado em taxa por hora, além de histórico de todas as movimentações.
 
+
 * Cobrança: Visualização rápida de recebimentos em aberto e baixa com confirmação de pagamentos.
+
 
 * Relatórios e Gráficos: Relatório de clientes cadastrados, relatório de recebimentos pendentes e efetuados (com cálculo do valor total recebido), e gráfico de barras dos Top 5 clientes frequentes.
 
+
 * Exportação PDF: Emissão e download de relatórios detalhados com histórico de pagamentos em formato PDF.
+
 
 
 ## Tecnologias Utilizadas
@@ -41,6 +47,7 @@ README.md
 ## Como Executar o Projeto
 
 ### Pré-requisitos
+
 
 Certifique-se de ter o Python 3.x instalado em sua máquina.
 
