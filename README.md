@@ -40,8 +40,11 @@ O sistema possui uma interface organizada por abas, facilitando a navegação e 
 ## Estrutura do Projeto
 
 sistema_estacionamento.py
+
 sistema_estacionamento.spec
+
 estacionamento.db (gerado automaticamente)
+
 README.md
 
 ## Como Executar o Projeto
